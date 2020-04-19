@@ -17,6 +17,7 @@ C#のコードとの見比べが沢山あります．
 ## 基本編
 1. [はじめに](basic/1.firststep.md) 
 2. [変数の宣言と代入，コンストラクタの呼び出し](basic/2.variables.md) 
+3. [プリミティブ型とリテラル](basic/3.primitive_types.md)
 
 ## 旧版（Qiita）
 [基本編1 ～インストール，言語説明，C#に近い機能の説明～](http://qiita.com/Gnico/items/c32185c8900215cd790b)  
