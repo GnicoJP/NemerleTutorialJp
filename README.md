@@ -14,6 +14,10 @@ C#のコードとの見比べが沢山あります．
 .Net 3.5 にも対応しており，Visual Studio 2008から対応します．
 
 # 目次
+## 基本編
+1. [はじめに](basic/1.firststep.md)  
+
+## 旧版（Qiita）
 [基本編1 ～インストール，言語説明，C#に近い機能の説明～](http://qiita.com/Gnico/items/c32185c8900215cd790b)  
 >言語説明  
 変数・定数・代入・プリミティブ型  
@@ -69,7 +73,7 @@ surroundwith
 >マクロの基礎  
 構文拡張基礎  
 
-# 付録：Nemerleの便利なマクロ集
+### 付録：Nemerleの便利なマクロ集
 [デザインパターンマクロ](http://qiita.com/Gnico/items/8447e418aaf295cf387e)
 
 ***
