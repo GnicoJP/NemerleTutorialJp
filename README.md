@@ -20,6 +20,7 @@ C#のコードとの見比べが沢山あります．
 3. [プリミティブ型とリテラル](basic/3.primitive_types.md)
 4. [演算子](basic/4.operators.md)
 5. [if式マクロとwhen,unless文マクロ](basic/5.if_when_unless.md)
+6. [関数](basic/6.function.md)
 
 ## 旧版（Qiita）
 [基本編1 ～インストール，言語説明，C#に近い機能の説明～](http://qiita.com/Gnico/items/c32185c8900215cd790b)  
@@ -67,7 +68,7 @@ P/invoke
 Option  
 マクロ紹介  
 
-[基本編1 ～マクロ紹介～](http://qiita.com/Gnico/items/1327bba77977e716c58d)  
+[～マクロ紹介～](http://qiita.com/Gnico/items/1327bba77977e716c58d)  
 > 匿名型  
 sizeof  
 surroundwith  
