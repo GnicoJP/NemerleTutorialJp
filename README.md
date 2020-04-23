@@ -19,11 +19,11 @@ C#のコードとの見比べが沢山あります．
 2. [変数の宣言と代入，コンストラクタの呼び出し](basic/2.variables.md) 
 3. [プリミティブ型とリテラル](basic/3.primitive_types.md)
 4. [演算子](basic/4.operators.md)
-5. [if式マクロとwhen,unless文マクロ](basic/5.if_when_unless.md)
-6. [関数](basic/6.function.md)
+6. [関数](basic/5.function.md)
 
 ## マクロ集
-* [Accessor&FlagAccessorマクロ:マクロを楽に定義する](macro/accessor_flagaccessor.md)
+* [if & when & unlessマクロ : 条件分岐](macro/conditional_branch_if_when_unless.md)
+* [Accessor & FlagAccessorマクロ : マクロを楽に定義する](macro/accessor_flagaccessor.md)
 
 ***
 間違えがありましたらIssueをしてください．

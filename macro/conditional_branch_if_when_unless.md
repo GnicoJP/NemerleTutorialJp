@@ -1,4 +1,4 @@
-# 条件分岐
+# 条件分岐マクロたち
 ## if式マクロ: 条件がTrueの場合，Falseの場合で分岐させる
 ```
 if(<condition>) {
@@ -63,6 +63,3 @@ unless(<condition>) {
 
 `condition`が`false`の時，`Code`が実行されます．  
 （when文で，論理否定演算子使って済ませることもできます．）
-
-PREV : [4.演算子](4.operators.md)
-NEXT : [6.関数](6.function.md)
