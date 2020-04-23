@@ -23,7 +23,7 @@ C#のコードとの見比べが沢山あります．
 
 ## マクロ集
 * [if & when & unlessマクロ : 条件分岐](macro/conditional_branch_if_when_unless.md)
-* [Accessor & FlagAccessorマクロ : マクロを楽に定義する](macro/accessor_flagaccessor.md)
+* [Accessor & FlagAccessorマクロ : プロパティを楽に定義する](macro/accessor_flagaccessor.md)
 
 ***
 間違えがありましたらIssueをしてください．
