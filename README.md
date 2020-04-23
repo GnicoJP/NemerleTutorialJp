@@ -25,6 +25,10 @@ C#のコードとの見比べが沢山あります．
 ## マクロ集
 * [Accessor&FlagAccessorマクロ:マクロを楽に定義する](macro/accessor_flagaccessor.md)
 
+***
+間違えがありましたらIssueをしてください．
+***
+
 ## 旧版（Qiita）
 [基本編1 ～インストール，言語説明，C#に近い機能の説明～](http://qiita.com/Gnico/items/c32185c8900215cd790b)  
 >言語説明  
@@ -83,6 +87,3 @@ surroundwith
 
 ### 付録：Nemerleの便利なマクロ集
 [デザインパターンマクロ](http://qiita.com/Gnico/items/8447e418aaf295cf387e)
-
-***
-間違えがありましたらIssueをしてください．
