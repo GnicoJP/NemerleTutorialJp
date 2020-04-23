@@ -22,6 +22,9 @@ C#のコードとの見比べが沢山あります．
 5. [if式マクロとwhen,unless文マクロ](basic/5.if_when_unless.md)
 6. [関数](basic/6.function.md)
 
+## マクロ集
+* [Accessor&FlagAccessorマクロ:マクロを楽に定義する](macro/accessor_flagaccessor.md)
+
 ## 旧版（Qiita）
 [基本編1 ～インストール，言語説明，C#に近い機能の説明～](http://qiita.com/Gnico/items/c32185c8900215cd790b)  
 >言語説明  
