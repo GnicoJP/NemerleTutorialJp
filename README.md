@@ -20,6 +20,7 @@ C#のコードとの見比べが沢山あります．
 3. [プリミティブ型とリテラル](basic/3.primitive_types.md)
 4. [演算子](basic/4.operators.md)
 6. [関数](basic/5.function.md)
+7. [名前空間とクラス](basic/6.namespace_class.md)
 
 ## マクロ集
 * [if & when & unlessマクロ : 条件分岐](macro/conditional_branch_if_when_unless.md)
