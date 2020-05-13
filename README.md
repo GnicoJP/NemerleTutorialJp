@@ -26,6 +26,7 @@ C#のコードとの見比べが沢山あります．
 * [if & when & unlessマクロ : 条件分岐](macro/conditional_branch_if_when_unless.md)
 * [repeat & while & do-while & while-otherwise & forマクロ : 繰り返し](macro/loop_for_while_repeat.md)
 * [Accessor & FlagAccessorマクロ : プロパティを楽に定義する](macro/accessor_flagaccessor.md)
+* [Lateマクロ : ダックタイピング](macro/late.md)
 
 ***
 間違えがありましたらIssueをしてください．
