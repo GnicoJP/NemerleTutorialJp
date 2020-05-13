@@ -205,6 +205,8 @@ Main() : void
 ```
 なのでこのようにする必要があります．
 ```nemerle
-if((hoge is int i) && (hoge1 is int j))
-    mul(i, j) |> WriteLine;
+match((hoge, hoge1)){
+    | (i is int, j is int) =>
+        mul(i, j) |> WriteLine;
+}
 ```
