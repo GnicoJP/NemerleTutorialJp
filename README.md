@@ -28,7 +28,8 @@ C#のコードとの見比べが沢山あります．
 * [Accessor & FlagAccessorマクロ : プロパティを楽に定義する](macro/accessor_flagaccessor.md)
 * [Lateマクロ : ダックタイピング](macro/late.md)
 * [Computationマクロ : コンピュテーション式](macro/computation/computation.md)
-  * [List Array Enumerable](macro/compuation/List_Array_Enumerable.md)
+  * [List Array Enumerable](macro/computation/List_Array_Enumerable.md)
+  * [Async](macro/computation/Async.md)
 
 ***
 間違えがありましたらIssueを立ててください．
